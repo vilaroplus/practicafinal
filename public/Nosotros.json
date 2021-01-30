@@ -1,0 +1,29 @@
+[{
+        "id": 1,
+        "autor": "Instagram: @ricardmartinez_",
+        "titulo": "Ricard Martínez",
+        "srcimg": "https://lh3.googleusercontent.com/_oOn-ZaiexHb7blgOWpZS7Ebx3XPT8eKTNkRChoDJVl4vT_I6MGACQqG_elDEfBejvxw4fBx69tNm5nmQpCAU8K8Yu8JK1ITkyVLufKEhp4336XGxTGwtJnDb6Xq07or6tKISWLdtg=w2400",
+        "alt": "Imagen Riki",
+        "texto": "Aficionado a la fotografía, esta buscando nuevos estilos que representar.",
+        "url": "/RicardMartinez"
+    },
+    {
+        "id": 2,
+        "autor": "Instagram: @gonzalovilaro",
+        "titulo": "Gonzalo Vilaró",
+        "srcimg": "https://lh3.googleusercontent.com/YaRNkiw_8EGrSi4yk4Vdqrw5fzJN2PgmwJalNvZREEwdGm9cXpTARwDycQLnBo6npTiGU6SrO8tNfm-LPi911UkBAN2AmElgRkplVq9Bd6FW12Y_u4IOxLZLYUIRuUlNDs5BponJfg=w2400",
+        "alt": "Imagen Gon",
+        "texto": "Aficionado al Diseño y a las Artes Escénicas, desde el teatro hasta el canto.",
+        "url": "/GonzaloVilaro"
+    },
+    {
+        "id": 3,
+        "autor": "Instagram: @_mayelivarela_",
+        "titulo": "Mayeli Varela",
+        "srcimg": "https://lh3.googleusercontent.com/-wgzVkYT7zF8FIcs4qKeLwz54RONSEfJ3EdX1ubj5SPwclhVumGwnzIC3TUrNUnfWhAdTVnLyUIcAOE-DjZcc9DqnkMeZ0b30eWtIBWdpzEf9q4i_BE2lQ_klWv2xfNaFoPIaZoDjg=w2400",
+        "alt": "Imagen Maye",
+        "texto": "Aficionada a las Artes Plásticas, centrándose en la pintura acrílica y cerámica.",
+        "url": "/MayeliVarela"
+    }
+
+]
